@@ -1,4 +1,4 @@
-![MY SKILLS](https://github.com/user-attachments/assets/b8128046-6a88-4934-9063-aaaac3333588)
+![MY SKILLS](https://github.com/user-attachments/assets/73a0b181-e923-4d2f-a78e-04c5a9d17ed0)
 
 # 📚 Repository
 현재 공개된 Repository 중 일부는 제한되어 있습니다. 이는 다음과 같은 이유로 인한 조치입니다.
